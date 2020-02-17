@@ -8,7 +8,7 @@ var connection = mysql.createConnection({
     port: 3306,
     user: "root",
     password: "stupidSql",
-    database: ""
+    database: "emp_tracker_db"
 });
 
 connection.connect(function(err) {

@@ -13,7 +13,7 @@ The user is able to:
 - View departments, roles, employees
 - Update employee roles
 
-### NPMS
+## NPMS
 
 - MySQL to connect to MySQL database and perform queries.
 - InquirerJs to interact with user on the command-line.

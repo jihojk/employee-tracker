@@ -17,7 +17,6 @@
     "url": "https://github.com/jihojk/employee-tracker/issues"
   },
   "homepage": "https://github.com/jihojk/employee-tracker#readme",
-  
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^7.0.4",

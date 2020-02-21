@@ -20,6 +20,7 @@ The user is able to:
 - Console.table to print MySQL rows to console.
 
 
-## App Screenshot
+## App Screenshots
 
-![Application Screenshot](/assets/.png)
+![Application Screenshot1](/screenshot1.png)
+![Application Screenshot2](/screenshot2.png)
